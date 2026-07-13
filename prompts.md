@@ -32,3 +32,13 @@ Evaluate prioritization, trade-offs, and actionable planning.
 
 Purpose:
 Evaluate code quality, explanations, debugging ability, and technical correctness.
+
+# Evaluation Dataset Design
+
+For each prompt we will record:
+
+- Prompt ID
+- Category
+- Capability Being Tested
+- Prompt
+- Expected Evaluation Focus
