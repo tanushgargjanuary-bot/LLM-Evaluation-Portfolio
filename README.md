@@ -109,6 +109,10 @@ Possible future improvements include:
 
 ---
 
+**NOTE** : This portfolio evaluates single-turn responses. Multi-turn conversations and iterative teaching are outside the scope of this project.
+
 ## License
 
 This repository is intended for educational and portfolio purposes.
+
+
