@@ -1,55 +1,114 @@
 # LLM Evaluation Portfolio
 
-## Goal
+## Overview
 
-Evaluate and compare responses from multiple frontier language models using a consistent evaluation rubric across real-world tasks.
+This project demonstrates a structured methodology for evaluating and comparing responses from frontier Large Language Models (LLMs).
 
-## Methodology
+Rather than focusing on prompt engineering alone, the project emphasizes critical evaluation, response analysis, and consistent scoring using a predefined rubric.
 
-### Models Evaluated
+The goal is to compare how different models perform across a variety of realistic tasks while maintaining a transparent and reproducible evaluation process.
 
-- ChatGPT
-- DeepSeek
-- Perplexity
+---
 
-### Evaluation Process
+## Objectives
 
-1. The same prompt is given to each model.
-2. Responses are collected before any scoring is performed.
-3. Each response is evaluated using the same rubric.
-4. Scores are assigned independently for every criterion.
-5. Responses are compared and analyzed.
+- Develop a consistent evaluation methodology.
+- Compare responses from multiple LLMs.
+- Identify strengths and limitations of different models.
+- Practice structured AI evaluation.
+- Document observations and reasoning.
 
-### Evaluation Principles
+---
 
-- Apply the same standards to every model.
-- Score based on the response itself, not the model's reputation.
-- Justify deductions with written notes.
-- Separate factual accuracy from writing quality.
-- Distinguish missing information from incorrect information.
-
-### Limitations
-
-- Single evaluator
-- Limited prompt set
-- Subjective scoring in some criteria
-- Model performance may change over time
-
-## Models
+## Models Evaluated
 
 - ChatGPT
 - DeepSeek
 - Perplexity
 
-## Status
+Additional models may be added later.
 
-- [ ] Rubric
-- [ ] Prompt Set
-- [ ] Response Collection
-- [ ] Evaluation
-- [ ] Analysis
-- [ ] Final Report
+---
 
-## Scope
+## Evaluation Methodology
 
-This project compares the quality of responses produced by frontier language models on a representative set of real-world tasks. It is not intended to determine a universally "best" model. The objective is to analyze relative strengths, weaknesses, and response characteristics using a consistent evaluation methodology.
+Every prompt follows the same workflow.
+
+1. Create one prompt.
+2. Submit the exact same prompt to every model.
+3. Save each raw response without modification.
+4. Evaluate each response using the predefined rubric.
+5. Compare the responses.
+6. Document observations.
+
+---
+
+## Evaluation Principles
+
+To keep evaluations as consistent as possible:
+
+- The exact same prompt is used for every model.
+- Responses are collected before scoring begins.
+- Scores are based only on the response.
+- Notes are written for every deduction.
+- Personal preference should never determine the score.
+
+---
+
+## Repository Structure
+
+```
+LLM-Evaluation-Portfolio/
+
+README.md
+
+rubric.md
+
+prompts.md
+
+evaluation_template.md
+
+raw_responses/
+
+evaluations/
+```
+
+---
+
+## Prompt Categories
+
+The evaluation dataset contains prompts from several categories.
+
+- Reasoning
+- Research & Analysis
+- Writing & Communication
+- Planning & Decision Making
+- Coding & Debugging
+
+---
+
+## Limitations
+
+This is a personal portfolio project.
+
+It is not intended to be a benchmark or academic research study.
+
+The evaluations represent one evaluator using a structured methodology across a limited number of prompts.
+
+---
+
+## Future Improvements
+
+Possible future improvements include:
+
+- More prompt categories
+- Additional LLMs
+- Larger prompt dataset
+- Multiple evaluators
+- Quantitative summary statistics
+
+---
+
+## License
+
+This repository is intended for educational and portfolio purposes.
