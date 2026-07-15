@@ -1,44 +1,147 @@
-# Prompt Categories
+# Evaluation Dataset
 
-## 1. Reasoning (4 prompts)
+This document contains every prompt used in the evaluation.
 
-Purpose:
-Evaluate logical reasoning, assumptions, consistency, and step-by-step thinking.
-
----
-
-## 2. Research & Analysis (4 prompts)
-
-Purpose:
-Evaluate information synthesis, uncertainty handling, and balanced analysis.
+Each prompt is designed to test one primary capability.
 
 ---
 
-## 3. Writing & Communication (4 prompts)
+# Prompt Format
 
-Purpose:
-Evaluate writing quality, audience adaptation, tone, and clarity.
-
----
-
-## 4. Planning & Decision Making (4 prompts)
-
-Purpose:
-Evaluate prioritization, trade-offs, and actionable planning.
-
----
-
-## 5. Coding & Debugging (4 prompts)
-
-Purpose:
-Evaluate code quality, explanations, debugging ability, and technical correctness.
-
-# Evaluation Dataset Design
-
-For each prompt we will record:
+Every prompt includes:
 
 - Prompt ID
 - Category
 - Capability Being Tested
+- Scenario
 - Prompt
-- Expected Evaluation Focus
+- Evaluation Focus
+
+---
+
+# Prompt Categories
+
+## Reasoning
+
+Measures:
+
+- Logical consistency
+- Problem solving
+- Assumption handling
+
+---
+
+## Research & Analysis
+
+Measures:
+
+- Information synthesis
+- Balanced reasoning
+- Uncertainty handling
+
+---
+
+## Writing & Communication
+
+Measures:
+
+- Clarity
+- Audience adaptation
+- Tone
+- Organization
+
+---
+
+## Planning & Decision Making
+
+Measures:
+
+- Prioritization
+- Trade-offs
+- Practical decision making
+
+---
+
+## Coding & Debugging
+
+Measures:
+
+- Technical reasoning
+- Code quality
+- Debugging ability
+
+---
+
+# Prompt List
+
+## R01
+
+Category:
+
+Capability:
+
+Scenario:
+
+Prompt:
+
+Evaluation Focus:
+
+---
+
+## R02
+
+Category:
+
+Capability:
+
+Scenario:
+
+Prompt:
+
+Evaluation Focus:
+
+---
+
+## R03
+
+Category:
+
+Capability:
+
+Scenario:
+
+Prompt:
+
+Evaluation Focus:
+
+---
+
+## R04
+
+Category:
+
+Capability:
+
+Scenario:
+
+Prompt:
+
+Evaluation Focus:
+
+---
+
+(Continue until all 20 prompts are completed.)
+
+Suggested Distribution
+
+Reasoning: 4
+
+Research & Analysis: 4
+
+Writing & Communication: 4
+
+Planning & Decision Making: 4
+
+Coding & Debugging: 4
+
+Total Prompts: 20
