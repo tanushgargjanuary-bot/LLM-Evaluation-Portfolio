@@ -1,98 +1,150 @@
 # LLM Evaluation Rubric
 
-## Scoring Scale
+Every response is evaluated using the same criteria.
 
-1 = Very Poor
-2 = Poor
-3 = Acceptable
-4 = Good
-5 = Excellent
+Scoring Scale
 
----
-
-## 1. Instruction Following
-
-Did the model answer what was actually asked?
-
-Score:
-1–5
-
-Notes:
+| Score | Meaning |
+|------:|---------|
+| 1 | Very Poor |
+| 2 | Poor |
+| 3 | Acceptable |
+| 4 | Good |
+| 5 | Excellent |
 
 ---
 
-## 2. Accuracy
+# 1. Instruction Following
 
-Are the factual claims correct?
-If the answer contains uncertain information, note it.
+Question:
 
-Score:
-1–5
+Did the response answer what was actually asked?
 
-Notes:
+Look for:
+
+- Missing constraints
+- Ignored instructions
+- Wrong format
 
 ---
 
-## 3. Reasoning
+# 2. Accuracy
+
+Question:
+
+Are the factual statements correct?
+
+Look for:
+
+- Incorrect facts
+- Unsupported claims
+- Misleading information
+
+---
+
+# 3. Reasoning
+
+Question:
 
 Is the reasoning logical and internally consistent?
 
-Score:
-1–5
+Look for:
 
-Notes:
-
----
-
-## 4. Completeness
-
-Did the response cover the important parts of the question?
-
-Score:
-1–5
-
-Notes:
+- Logical jumps
+- Contradictions
+- Unsupported conclusions
 
 ---
 
-## 5. Readability
+# 4. Completeness
 
-Was the response easy to understand and well organized?
+Question:
 
-Score:
-1–5
+Did the response cover the important aspects of the task?
 
-Notes:
+Look for:
 
----
-
-## 6. Tone
-
-Was the tone appropriate for the prompt?
-
-Score:
-1–5
-
-Notes:
+- Missing steps
+- Missing considerations
+- Partial answers
 
 ---
 
-## 7. Hallucination Risk
+# 5. Readability
 
-Did the model invent facts, make unsupported assumptions, or sound overly confident without evidence?
+Question:
 
-Score:
-1–5
+Was the response easy to understand?
 
-Notes:
+Look for:
+
+- Structure
+- Clarity
+- Flow
+- Formatting
 
 ---
 
-## 8. Overall Helpfulness
+# 6. Tone
+
+Question:
+
+Was the tone appropriate?
+
+Look for:
+
+- Professionalism
+- Friendliness
+- Audience awareness
+
+---
+
+# 7. Hallucination Risk
+
+Question:
+
+Did the model appear to invent information or make unsupported assumptions?
+
+Look for:
+
+- Fabricated facts
+- Overconfidence
+- Speculation presented as fact
+
+---
+
+# 8. Overall Helpfulness
+
+Question:
 
 Would a typical user likely be satisfied with this response?
 
-Score:
-1–5
+Consider the response as a whole.
 
-Notes:
+---
+
+# General Scoring Guidelines
+
+Prefer lower scores when uncertain.
+
+Every score should include a written justification.
+
+Do not reward verbosity.
+
+Do not penalize brevity if the response fully answers the prompt.
+
+Evaluate the response itself, not the reputation of the model.
+
+Remain consistent across every prompt.
+
+---
+
+# Common Evaluation Mistakes
+
+Avoid:
+
+- Brand bias
+- Preferring longer responses
+- Changing standards between prompts
+- Letting one criterion influence another
+- Comparing models before individual scoring
