@@ -1,22 +1,22 @@
-# Prompt {{ID}}
+# Evaluation Template
 
-## Category
+Prompt ID:
 
-Reasoning / Writing / Research / Planning / Coding
+Category:
+
+Capability Being Tested:
+
+Scenario:
+
+Prompt:
 
 ---
 
-## Prompt
+# ChatGPT Response
 
-(Paste the exact prompt here.)
+(Paste response here)
 
----
-
-# ChatGPT
-
-(Response)
-
-### Scores
+## Scores
 
 | Criterion | Score (1-5) | Notes |
 |-----------|------------:|-------|
@@ -29,19 +29,23 @@ Reasoning / Writing / Research / Planning / Coding
 | Hallucination Risk | | |
 | Overall Helpfulness | | |
 
-Overall Comments:
+### Overall Comments
 
-Strengths:
+Strengths
 
-Weaknesses:
+-
+
+Weaknesses
+
+-
 
 ---
 
-# DeepSeek
+# DeepSeek Response
 
-(Response)
+(Paste response here)
 
-### Scores
+## Scores
 
 | Criterion | Score (1-5) | Notes |
 |-----------|------------:|-------|
@@ -54,19 +58,23 @@ Weaknesses:
 | Hallucination Risk | | |
 | Overall Helpfulness | | |
 
-Overall Comments:
+### Overall Comments
 
-Strengths:
+Strengths
 
-Weaknesses:
+-
+
+Weaknesses
+
+-
 
 ---
 
-# Perplexity
+# Perplexity Response
 
-(Response)
+(Paste response here)
 
-### Scores
+## Scores
 
 | Criterion | Score (1-5) | Notes |
 |-----------|------------:|-------|
@@ -79,24 +87,60 @@ Weaknesses:
 | Hallucination Risk | | |
 | Overall Helpfulness | | |
 
-Overall Comments:
+### Overall Comments
 
-Strengths:
+Strengths
 
-Weaknesses:
+-
+
+Weaknesses
+
+-
 
 ---
 
 # Comparative Analysis
 
-Best Model:
-
-Why?
-
-Interesting Differences:
-
-Final Ranking:
+## Ranking
 
 1.
+
 2.
+
 3.
+
+---
+
+## Best Response
+
+Explain why.
+
+---
+
+## Major Differences
+
+-
+
+-
+
+-
+
+---
+
+## Interesting Observations
+
+-
+
+-
+
+-
+
+---
+
+## Lessons Learned
+
+-
+
+-
+
+-
