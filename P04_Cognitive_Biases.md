@@ -37,26 +37,25 @@ Next Step: Pick one recent household decision (e.g., insurance, education, inves
 
 ## Scores
 
-| Criterion | Score (1-5) | Notes |
-|-----------|------------:|-------|
-| Instruction Following | | |
-| Accuracy | | |
-| Reasoning | | |
-| Completeness | | |
-| Readability | | |
-| Tone | | |
-| Hallucination Risk | | |
-| Overall Helpfulness | | |
+| Criterion       | Rating | Notes |
+|----------------|:------:|-------|
+| Helpfulness    | 4.5 | Helpful and practical, but lacked stronger guidance on which path a beginner should choose. |
+| Clarity        | 4 | The table improved readability, though a few stronger examples would have helped. |
+| Practicality   | 4 | Practical overall, but didn't clearly recommend a best starting approach. |
+| Coverage       | 5 | Covered all parts of the prompt. |
+| Overall Quality| 4.5 | Strong response, though it didn't provide particularly distinctive insights. |
 
 ### Overall Comments
 
-Strengths
+**Strengths**
 
--
+- Well structured and easy to scan.
+- Covered the ecosystem of selling digital products clearly.
+- Included practical next steps.
 
-Weaknesses
+**Weaknesses**
 
--
+- Presented many options but gave limited guidance on choosing the most suitable path for a beginner.
 
 ---
 
@@ -122,26 +121,26 @@ Favouring immediate rewards over much larger future gains.
 
 ## Scores
 
-| Criterion | Score (1-5) | Notes |
-|-----------|------------:|-------|
-| Instruction Following | | |
-| Accuracy | | |
-| Reasoning | | |
-| Completeness | | |
-| Readability | | |
-| Tone | | |
-| Hallucination Risk | | |
-| Overall Helpfulness | | |
+| Criterion       | Rating | Notes |
+|----------------|:------:|-------|
+| Helpfulness    | 4.5 | Helpful, but less actionable than the other responses. |
+| Clarity        | 5 | Clear explanations and easy to understand. |
+| Practicality   | 4.5 | Good recommendations, though some lacked concrete starting guidance. |
+| Coverage       | 5 | Addressed every part of the prompt. |
+| Overall Quality| 4.5 | Good overall response, but slightly less comprehensive than Claude. |
 
 ### Overall Comments
 
-Strengths
+**Strengths**
 
--
+- Clear and readable.
+- Honest about the trade-offs.
+- Good explanation of the main distribution methods.
 
-Weaknesses
+**Weaknesses**
 
--
+- Some sections could have provided more depth.
+- Less actionable than the strongest response.
 
 ---
 
@@ -167,71 +166,62 @@ Here are seven biases that show up a lot in Indian household decisions:
 
 ## Scores
 
-| Criterion | Score (1-5) | Notes |
-|-----------|------------:|-------|
-| Instruction Following | | |
-| Accuracy | | |
-| Reasoning | | |
-| Completeness | | |
-| Readability | | |
-| Tone | | |
-| Hallucination Risk | | |
-| Overall Helpfulness | | |
+| Criterion       | Rating | Notes |
+|----------------|:------:|-------|
+| Helpfulness    | 5 | Would likely satisfy most users. |
+| Clarity        | 5 | Clear explanations supported by relevant examples. |
+| Practicality   | 5 | Practical recommendations that a beginner could follow. |
+| Coverage       | 5 | Covered all requested aspects. |
+| Overall Quality| 5 | The strongest overall response with no major weaknesses. |
 
 ### Overall Comments
 
-Strengths
+**Strengths**
 
--
+- Strong realism throughout.
+- Balanced practical advice with explanation.
+- Easy to understand while remaining concise.
 
-Weaknesses
+**Weaknesses**
 
--
+- Some recommendations assume access to resources such as advertising budgets or partnerships.
 
 ---
 
 # Comparative Analysis
 
-## Ranking
+## Final Ranking
 
-1.
-
-2.
-
-3.
+1. Claude
+2. ChatGPT
+3. DeepSeek
 
 ---
 
-## Best Response
+## Why?
 
-Explain why.
+### 1st — Claude
 
----
+- Clear, concise, and realistic.
+- Used strong Indian examples that felt natural.
+- Most suitable response for someone learning the topic for the first time.
 
-## Major Differences
+### 2nd — ChatGPT
 
--
+- Excellent organization through the table format.
+- Included practical advice for recognizing cognitive biases.
+- Slightly weaker examples than Claude.
 
--
+### 3rd — DeepSeek
 
--
-
----
-
-## Interesting Observations
-
--
-
--
-
--
+- Covered the requested topic well.
+- Longer paragraphs reduced readability.
+- Did not explain how to recognize the biases in everyday situations.
 
 ---
 
-## Lessons Learned
+## Key Differences
 
--
-
--
-
--
+- Claude used the clearest and most relatable Indian examples.
+- ChatGPT was the only model to explicitly explain how users could recognize the biases.
+- DeepSeek provided good explanations but relied on longer paragraphs and missed practical recognition guidance.
