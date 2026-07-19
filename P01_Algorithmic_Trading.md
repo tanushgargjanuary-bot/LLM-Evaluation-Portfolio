@@ -454,7 +454,6 @@ Weaknesses
 
 Doesnt include the exact wording of skills which the user may need to know in depth.
 
-
 ---
 
 # Claude Response
@@ -520,57 +519,44 @@ Want me to go deeper on any phase — e.g., a reading list, or a first hands-on 
 
 Strengths
 
-Blunt
-More real than Deepseek
+-Blunt
+-More real than Deepseek
+-User could follow up easily with doubts.
 
 Weaknesses
 
--
+-Lesser readaility than other responses.
 
 ---
 
-# Comparative Analysis
+## Final Ranking
 
-## Ranking
-
-1.
-
-2.
-
-3.
+1. Claude
+2. Deepseek
+3. ChatGPT
 
 ---
 
-## Best Response
+## Why?
 
-Explain why.
+### 1st
 
----
+- No major weakness, expect readability, easy follow up for user with doubts
 
-## Major Differences
+### 2nd
 
--
+- Felt Less technical depth 
 
--
+### 3rd
 
--
-
----
-
-## Interesting Observations
-
--
-
--
-
--
+- Didn't give jist of realism to user.
 
 ---
 
-## Lessons Learned
+## Key Differences
 
+- Realism of process
+- Readability
+- Folow-up by user
 -
-
--
-
 -
