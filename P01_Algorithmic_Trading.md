@@ -340,26 +340,23 @@ The highest leverage skill is **research methodology**: forming hypotheses about
 
 ## Scores
 
-| Criterion | Score (1-5) | Notes |
-|-----------|------------:|-------|
-| Instruction Following | | |
-| Accuracy | | |
-| Reasoning | | |
-| Completeness | | |
-| Readability | | |
-| Tone | | |
-| Hallucination Risk | | |
-| Overall Helpfulness | | |
+| Criterion       | Rating  | Notes                    
+| --------------- |---------|--------------------------------------- 
+| Helpfulness     |    4    | Responded just as expected, nothing distincttive, would be helpful to most of the Users.
+| Clarity         |    4    | Could've gave examples on niche practical problems user could face during learning.
+| Practicality    |    5    | Felt practical to a beginner.
+| Coverage        |    5    | Didn't miss anything the prompt asked.
+| Overall Quality |   4.5   | Gave expected result with nothing special or very helpful. No distinctive insights.
 
 ### Overall Comments
 
 Strengths
 
--
+Nothing felt as a strength of the Model, gave expected result.
 
 Weaknesses
 
--
+Could've given specific, realisitc problematic example, which would've give user a reality hit from response, somethink like, 10K bucks on the trade convert into 2K because of a huge drop, just because of latency.
 
 ---
 
@@ -437,26 +434,26 @@ It's a marathon, not a sprint. Good luck – the intellectual payoff is immense.
 
 ## Scores
 
-| Criterion | Score (1-5) | Notes |
-|-----------|------------:|-------|
-| Instruction Following | | |
-| Accuracy | | |
-| Reasoning | | |
-| Completeness | | |
-| Readability | | |
-| Tone | | |
-| Hallucination Risk | | |
-| Overall Helpfulness | | |
+| Criterion       | Rating  | Notes                    
+| --------------- |---------|--------------------------------------- 
+| Helpfulness     |    5    | Would've been helpful to an average user
+| Clarity         |    4    | Could've been a clearer with a little depth
+| Practicality    |   4.5   | Some starting points to get started would be good.
+| Coverage        |    5    | Covered everything
+| Overall Quality |   4.5   | I'd be satisfied with the response. 
 
 ### Overall Comments
 
 Strengths
 
--
+More readable and gives extra info and jist of the process.
+Gave Prerequisites with honesty.
+Realism
 
 Weaknesses
 
--
+Doesnt include the exact wording of skills which the user may need to know in depth.
+
 
 ---
 
@@ -511,22 +508,20 @@ Want me to go deeper on any phase — e.g., a reading list, or a first hands-on 
 
 ## Scores
 
-| Criterion | Score (1-5) | Notes |
-|-----------|------------:|-------|
-| Instruction Following | | |
-| Accuracy | | |
-| Reasoning | | |
-| Completeness | | |
-| Readability | | |
-| Tone | | |
-| Hallucination Risk | | |
-| Overall Helpfulness | | |
+| Criterion       | Rating  |Notes                    
+| --------------- |---------|--------------------------------------- 
+| Helpfulness     |    5    | Would be helpful to average user
+| Clarity         |    5    | Felt readable, clear and understandable.
+| Practicality    |    5    | Timeline seeemed okay, and had realism.
+| Coverage        |    5    | Covered everything
+| Overall Quality |    5    | No major weakness
 
 ### Overall Comments
 
 Strengths
 
--
+Blunt
+More real than Deepseek
 
 Weaknesses
 
