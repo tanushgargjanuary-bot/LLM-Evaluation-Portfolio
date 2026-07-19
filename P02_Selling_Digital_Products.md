@@ -68,26 +68,23 @@ This approach gives you short-term revenue opportunities while gradually reducin
 
 ## Scores
 
-| Criterion | Score (1-5) | Notes |
-|-----------|------------:|-------|
-| Instruction Following | | |
-| Accuracy | | |
-| Reasoning | | |
-| Completeness | | |
-| Readability | | |
-| Tone | | |
-| Hallucination Risk | | |
-| Overall Helpfulness | | |
+| Criterion       | Rating  | Notes                    
+| --------------- |---------|--------------------------------------- 
+| Helpfulness     |    5    | Gave helpful info about ecosystem of online selling
+| Clarity         |    4    | Could've suggested some strong ideas
+| Practicality    |    4    | Good ending for easy follow-up
+| Coverage        |    5    | Didn't miss anything that prompt asked
+| Overall Quality |   4.5   | Mildly satisfied with the response. 
 
 ### Overall Comments
 
 Strengths
 
--
+- 
 
 Weaknesses
 
--
+- User may get confused in choosing a good path.
 
 ---
 
@@ -113,26 +110,24 @@ Here are the **realistic, audience-free** routes:
 
 ## Scores
 
-| Criterion | Score (1-5) | Notes |
-|-----------|------------:|-------|
-| Instruction Following | | |
-| Accuracy | | |
-| Reasoning | | |
-| Completeness | | |
-| Readability | | |
-| Tone | | |
-| Hallucination Risk | | |
-| Overall Helpfulness | | |
+| Criterion       | Rating  | Notes
+| --------------- |---------|--------------------------------------- 
+| Helpfulness     |   4.5   | Could have provided more actionable guidance.
+| Clarity         |    5    | 
+| Practicality    |   4.5   | Mostly theoretical with limited practical guidance.
+| Coverage        |   4.5   | Some requested details were brief.
+| Overall Quality |   4.5   | 
 
 ### Overall Comments
 
 Strengths
 
--
+- Readability
+- Clear enough that user can follow-up well.
 
 Weaknesses
 
--
+- Too short, followed prompt strongly for conciceness
 
 ---
 
@@ -174,71 +169,52 @@ Here are the realistic paths:
 
 ## Scores
 
-| Criterion | Score (1-5) | Notes |
-|-----------|------------:|-------|
-| Instruction Following | | |
-| Accuracy | | |
-| Reasoning | | |
-| Completeness | | |
-| Readability | | |
-| Tone | | |
-| Hallucination Risk | | |
-| Overall Helpfulness | | |
+| Criterion       | Rating  | Notes
+| --------------- |---------|--------------------------------------- 
+| Helpfulness     |    5    | May satisfy the intended user.
+| Clarity         |    5    | Examples improved understanding.
+| Practicality    |    4    | User may or may not afford Ads.
+| Coverage        |    5    | Addressed all parts of the prompt.
+| Overall Quality |    5    | Felt very good and didn't feel generic.
 
 ### Overall Comments
 
 Strengths
 
--
+- Realism in examples
 
 Weaknesses
 
--
+- Made some assumptions
 
 ---
 
-# Comparative Analysis
+## Final Ranking
 
-## Ranking
-
-1.
-
-2.
-
-3.
+1. Claude
+2. ChatGPT
+3. Deepseek
 
 ---
 
-## Best Response
+## Why?
 
-Explain why.
+### 1st
 
----
+- Only made small assumptions, great realism
 
-## Major Differences
+### 2nd
 
--
+- May confuse user to choose a path
 
--
+### 3rd
 
--
-
----
-
-## Interesting Observations
-
--
-
--
-
--
+- Many mistakes making overall quality bad
 
 ---
 
-## Lessons Learned
+## Key Differences
 
--
-
--
-
--
+- Realism
+- Assumptions
+- Follow-up after first response.
