@@ -238,27 +238,25 @@ Next Step: Learn CPU architecture first—specifically registers, memory, the in
 
 ## Scores
 
-| Criterion | Score (1-5) | Notes |
-|-----------|------------:|-------|
-| Instruction Following | | |
-| Accuracy | | |
-| Reasoning | | |
-| Completeness | | |
-| Readability | | |
-| Tone | | |
-| Hallucination Risk | | |
-| Overall Helpfulness | | |
+| Criterion       | Rating | Notes |
+|----------------|:------:|-------|
+| Helpfulness    | 4.5 | Good roadmap for learning, but weaker at building intuition for why assembly language matters. |
+| Clarity        | 4.5 | Well organized and easy to follow. |
+| Practicality   | 4.5 | Practical roadmap, though it felt more like a study plan than a teaching response. |
+| Coverage       | 5 | Covered all requested aspects. |
+| Overall Quality| 4.5 | Strong educational response, but focused more on structure than understanding. |
 
 ### Overall Comments
 
-Strengths
+**Strengths**
 
--
+- Well structured roadmap.
+- Easy to navigate.
+- Comprehensive coverage.
 
-Weaknesses
+**Weaknesses**
 
--
-
+- Focused on what to learn rather than helping the reader intuitively understand the subject.
 ---
 
 # DeepSeek Response
@@ -382,27 +380,25 @@ Would you like me to walk through the same concepts using actual x86-64 instruct
 
 ## Scores
 
-| Criterion | Score (1-5) | Notes |
-|-----------|------------:|-------|
-| Instruction Following | | |
-| Accuracy | | |
-| Reasoning | | |
-| Completeness | | |
-| Readability | | |
-| Tone | | |
-| Hallucination Risk | | |
-| Overall Helpfulness | | |
+| Criterion       | Rating | Notes |
+|----------------|:------:|-------|
+| Helpfulness    | 5 | Built intuition while remaining concise. |
+| Clarity        | 5 | Clear wording made the concepts easier to understand. |
+| Practicality   | 5 | Balanced conceptual understanding with practical learning guidance. |
+| Coverage       | 5 | Addressed every part of the prompt. |
+| Overall Quality| 5 | Best balance of intuition, clarity and teaching style. |
 
 ### Overall Comments
 
-Strengths
+**Strengths**
 
--
+- Built intuition before technical details.
+- Easy to understand despite being shorter.
+- Better wording improved conceptual understanding.
 
-Weaknesses
+**Weaknesses**
 
--
-
+- Could have included a few more practical examples connecting assembly instructions to hardware.
 ---
 
 # Claude Response
@@ -424,3 +420,78 @@ There is no "for loop" instruction. There is no "if statement." A loop is just: 
 ## Why Registers Matter
 
 Registers are storage built directly into the CPU — nanoseconds to access, versus RAM which is comparatively far away and slow. There are only a handful (think 8–16 general-purpose ones). This scarcity is the whole game in assembly: a huge amount of what compilers do is figure out which values deserve to live in a register right now versus getting "spilled" to memory. When you write `x = a + b` in Python, you never think about this. In assembly, you constantly do:
+load a into register 1
+load b into register 2
+add register 1 and register 2, store result in register 1
+store register 1 back to memory address of x
+
+
+That's four hardware operations for one line of Python.
+
+## How "Software Controls Hardware" Concretely
+
+- **The instruction pointer (a special register)** holds the address of the next instruction. The CPU's basic cycle is: fetch instruction at that address → decode it → execute it → advance the pointer (or jump it somewhere else). Programs are just data sitting in memory that the CPU walks through sequentially unless told to jump.
+- **The stack** (a region of memory with a dedicated register pointing to its top) is how function calls work: "call" pushes the return address, jumps to the function; "return" pops that address and jumps back. Local variables often live here too.
+- **I/O and devices** (disk, screen, network) are reached either through special instructions or by reading/writing specific memory addresses that the hardware watches — your OS wraps this in syscalls, which assembly can invoke directly.
+
+## Why This Matters for Intuition
+
+Every abstraction you've used — variables, functions, objects, exceptions — decomposes into: _where is this value stored (register or memory address), and what sequence of compare/jump instructions implements the control flow._ Once that clicks, assembly syntax is just vocabulary for something you already conceptually understand.
+
+Want me to move into actual syntax next (I'd suggest x86-64 or ARM — worth picking based on what you want to inspect, like your own laptop's compiled code) with a tiny working example — say, translating a simple loop and watching it become jumps?
+
+## Scores
+
+| Criterion       | Rating | Notes |
+|----------------|:------:|-------|
+| Helpfulness    | 4 | Useful technically, but less suitable for a beginner. |
+| Clarity        | 4 | Expected too much prior knowledge from the reader. |
+| Practicality   | 4 | Good follow-up suggestion, but the initial explanation was too technical. |
+| Coverage       | 4.5 | Covered most requested aspects but emphasized technical explanation over teaching. |
+| Overall Quality| 4 | Technically strong, but not aligned with the beginner-focused learning goal. |
+
+### Overall Comments
+
+**Strengths**
+
+- Accurate technical explanation.
+- Good follow-up suggestion for continuing the lesson.
+
+**Weaknesses**
+
+- Did not build concepts gradually for a beginner.
+- Introduced technical ideas too quickly.
+
+## Final Ranking
+
+1. DeepSeek
+2. ChatGPT
+3. Claude
+
+---
+
+## Why?
+
+### 1st — DeepSeek
+
+- Explained the intuition behind assembly language instead of only presenting information.
+- Better wording made the concepts easier to understand.
+- Balanced conceptual understanding with a concise teaching style.
+
+### 2nd — ChatGPT
+
+- Provided a strong learning roadmap with good organization.
+- Focused more on planning the learning journey than helping the reader develop intuition.
+
+### 3rd — Claude
+
+- Technically accurate but assumed too much prior knowledge.
+- Better suited for someone already familiar with low-level programming than a complete beginner.
+
+---
+
+## Key Differences
+
+- DeepSeek emphasized intuition and conceptual understanding.
+- ChatGPT emphasized a structured roadmap for long-term learning.
+- Claude emphasized technical explanation over beginner-oriented teaching.
