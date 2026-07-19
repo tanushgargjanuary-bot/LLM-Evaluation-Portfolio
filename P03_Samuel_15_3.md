@@ -61,31 +61,6 @@ There is no single Christian consensus. The passage remains one of the most disc
 
 Scholars and theologians from different traditions reach different conclusions, and the passage continues to be debated in biblical studies, philosophy, and theology.
 
-## Scores
-
-| Criterion | Score (1-5) | Notes |
-|-----------|------------:|-------|
-| Instruction Following | | |
-| Accuracy | | |
-| Reasoning | | |
-| Completeness | | |
-| Readability | | |
-| Tone | | |
-| Hallucination Risk | | |
-| Overall Helpfulness | | |
-
-### Overall Comments
-
-Strengths
-
--
-
-Weaknesses
-
--
-
----
-
 # DeepSeek Response
 
 **1 Samuel 15:3** records God's command to King Saul: *"Now go, attack the Amalekites and totally destroy all that belongs to them. Do not spare them; put to death men and women, children and infants, cattle and sheep, camels and donkeys."* This is indeed one of the most disturbing and controversial passages in the Bible.
@@ -127,31 +102,6 @@ Christians typically seek understanding through these lenses:
 
 In short, the core tension lies in **believing in a loving, just God** while grappling with a text that appears to contradict that belief. The different interpretive paths reflect how Christians navigate this difficult intersection of faithfulness to Scripture and moral conscience.
 
-## Scores
-
-| Criterion | Score (1-5) | Notes |
-|-----------|------------:|-------|
-| Instruction Following | | |
-| Accuracy | | |
-| Reasoning | | |
-| Completeness | | |
-| Readability | | |
-| Tone | | |
-| Hallucination Risk | | |
-| Overall Helpfulness | | |
-
-### Overall Comments
-
-Strengths
-
--
-
-Weaknesses
-
--
-
----
-
 # Claude Response
 
 **The passage:** In 1 Samuel 15:3, Samuel relays God's command to King Saul to attack the Amalekites and "utterly destroy" them — men, women, children, infants, and livestock. This is part of the _herem_ (ban/devotion to destruction) tradition in the Hebrew Bible, tied to Amalek's earlier attack on Israel during the Exodus (Exodus 17:8-16, Deuteronomy 25:17-19).
@@ -178,73 +128,26 @@ Critics (including some ex-Christians and skeptics) point to it as a serious cha
 
 There's no consensus answer; it remains one of the more actively debated texts in biblical ethics.
 
-## Scores
+---
 
-| Criterion | Score (1-5) | Notes |
-|-----------|------------:|-------|
-| Instruction Following | | |
-| Accuracy | | |
-| Reasoning | | |
-| Completeness | | |
-| Readability | | |
-| Tone | | |
-| Hallucination Risk | | |
-| Overall Helpfulness | | |
+## Final Ranking
 
-### Overall Comments
+No clear winner.
 
-Strengths
-
--
-
-Weaknesses
-
--
+All three responses explained the historical and theological context, but none clearly answered the practical questions that naturally arise from reading the verse.
 
 ---
 
-# Comparative Analysis
+## Why?
 
-## Ranking
+All three responses required follow-up questions before the meaning of the passage became understandable.
 
-1.
-
-2.
-
-3.
+The evaluation highlighted a common limitation: the models tended to provide background information before ensuring that the user's immediate confusion was resolved.
 
 ---
 
-## Best Response
+## Key Differences
 
-Explain why.
-
----
-
-## Major Differences
-
--
-
--
-
--
-
----
-
-## Interesting Observations
-
--
-
--
-
--
-
----
-
-## Lessons Learned
-
--
-
--
-
--
+- ChatGPT focused on structured explanation.
+- Claude used more theological language.
+- DeepSeek was the easiest to continue the conversation with through follow-up questions.
