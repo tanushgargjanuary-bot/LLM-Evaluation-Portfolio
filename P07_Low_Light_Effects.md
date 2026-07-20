@@ -50,27 +50,25 @@ Next Step: Compare your daily lighting and outdoor exposure against these recomm
 
 ## Scores
 
-| Criterion | Score (1-5) | Notes |
-|-----------|------------:|-------|
-| Instruction Following | | |
-| Accuracy | | |
-| Reasoning | | |
-| Completeness | | |
-| Readability | | |
-| Tone | | |
-| Hallucination Risk | | |
-| Overall Helpfulness | | |
+| Criterion       | Rating | Notes |
+|----------------|:------:|-------|
+| Helpfulness    | 5 | Explained both the effects and the science behind them. |
+| Clarity        | 5 | Tables and structured sections made the response easy to understand. |
+| Practicality   | 5 | Included practical ways to reduce risk and improve overall lifestyle. |
+| Coverage       | 5 | Covered every part of the prompt while adding relevant supporting information. |
+| Overall Quality| 5 | Most educational and useful response overall. |
 
 ### Overall Comments
 
-Strengths
+**Strengths**
 
--
+- Explained the scientific reasons behind the effects instead of only listing them.
+- Included practical risk reduction strategies.
+- Well structured and easy to follow.
 
-Weaknesses
+**Weaknesses**
 
--
-
+- Longer than the other responses, though the additional information remained relevant.
 ---
 
 # DeepSeek Response
@@ -97,27 +95,26 @@ The cumulative effect is a state of chronic illness and isolation. The lack of a
 
 ## Scores
 
-| Criterion | Score (1-5) | Notes |
-|-----------|------------:|-------|
-| Instruction Following | | |
-| Accuracy | | |
-| Reasoning | | |
-| Completeness | | |
-| Readability | | |
-| Tone | | |
-| Hallucination Risk | | |
-| Overall Helpfulness | | |
+| Criterion       | Rating | Notes |
+|----------------|:------:|-------|
+| Helpfulness    | 4.5 | Helpful and well structured, but less educational than ChatGPT. |
+| Clarity        | 5 | Clear organization made the response easy to read. |
+| Practicality   | 4.5 | Practical recommendations, though fewer than ChatGPT. |
+| Coverage       | 4.5 | Covered the requested topics but with less supporting explanation. |
+| Overall Quality| 4.5 | Strong response that lacked some additional context. |
 
 ### Overall Comments
 
-Strengths
+**Strengths**
 
--
+- Clear structure.
+- Easy to read.
+- Good balance between explanation and advice.
 
-Weaknesses
+**Weaknesses**
 
--
-
+- Could have explained the scientific reasoning in greater depth.
+- Fewer practical recommendations than ChatGPT.
 ---
 
 # Claude Response
@@ -157,71 +154,57 @@ If this question is about your own living situation, it's worth mentioning — I
 
 ## Scores
 
-| Criterion | Score (1-5) | Notes |
-|-----------|------------:|-------|
-| Instruction Following | | |
-| Accuracy | | |
-| Reasoning | | |
-| Completeness | | |
-| Readability | | |
-| Tone | | |
-| Hallucination Risk | | |
-| Overall Helpfulness | | |
+| Criterion       | Rating | Notes |
+|----------------|:------:|-------|
+| Helpfulness    | 4 | Addressed the prompt but provided less information than the other responses. |
+| Clarity        | 4.5 | Clear overall, though more condensed. |
+| Practicality   | 4 | Practical advice was present but limited. |
+| Coverage       | 4 | Focused mainly on the requested points without expanding into related information. |
+| Overall Quality| 4 | Good response, but less informative than ChatGPT and Claude. |
 
 ### Overall Comments
 
-Strengths
+**Strengths**
 
--
+- Concise and focused.
+- Followed the prompt closely.
 
-Weaknesses
+**Weaknesses**
 
--
+- Missed additional information that would help users better understand the topic.
+- Less educational depth than the other responses.
+---
+
+## Final Ranking
+
+1. ChatGPT
+2. Claude
+3. DeepSeek
 
 ---
 
-# Comparative Analysis
+## Why?
 
-## Ranking
+### 1st — ChatGPT
 
-1.
+- Combined scientific explanation with practical advice.
+- Explained not only what happens but also why it happens.
+- Included useful information about reducing risks and improving lifestyle, which naturally follows from the user's concern.
 
-2.
+### 2nd — Claude
 
-3.
+- Well organized and easy to understand.
+- Covered the requested information clearly but with less scientific explanation and fewer supporting details than ChatGPT.
 
----
+### 3rd — DeepSeek
 
-## Best Response
-
-Explain why.
-
----
-
-## Major Differences
-
--
-
--
-
--
+- Followed the prompt closely and remained concise.
+- Focused mainly on answering the explicit request, providing less educational depth and practical context than the other responses.
 
 ---
 
-## Interesting Observations
+## Key Differences
 
--
-
--
-
--
-
----
-
-## Lessons Learned
-
--
-
--
-
--
+- ChatGPT prioritized helping the user fully understand the health topic, even by including relevant information beyond the literal prompt.
+- Claude emphasized clear organization and readability.
+- DeepSeek followed the prompt most strictly, resulting in a shorter but less comprehensive response.
