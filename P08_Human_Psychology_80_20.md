@@ -200,27 +200,25 @@ Next Step: Pick one interaction today and analyze it using the seven-question ch
 
 ## Scores
 
-| Criterion | Score (1-5) | Notes |
-|-----------|------------:|-------|
-| Instruction Following | | |
-| Accuracy | | |
-| Reasoning | | |
-| Completeness | | |
-| Readability | | |
-| Tone | | |
-| Hallucination Risk | | |
-| Overall Helpfulness | | |
+| Criterion       | Rating | Notes |
+|----------------|:------:|-------|
+| Helpfulness    | 5 | Explained the highest-impact psychology concepts in a practical way. |
+| Clarity        | 5 | Easy to understand while maintaining good depth. |
+| Practicality   | 5 | Concepts can be directly applied to everyday interactions. |
+| Coverage       | 5 | Covered the core ideas expected from an 80/20 overview. |
+| Overall Quality| 5 | Strong balance between depth, readability, and practical understanding. |
 
 ### Overall Comments
 
-Strengths
+**Strengths**
 
--
+- Focused on explaining the reasoning behind psychological concepts instead of only listing them.
+- Built practical understanding without becoming overly academic.
+- Delivered good depth while remaining concise.
 
-Weaknesses
+**Weaknesses**
 
--
-
+- Could have included one or two more memorable real-life scenarios for application.
 ---
 
 # DeepSeek Response
@@ -298,26 +296,26 @@ People act consistently with who they believe they are. Telling someone "you sho
 
 ## Scores
 
-| Criterion | Score (1-5) | Notes |
-|-----------|------------:|-------|
-| Instruction Following | | |
-| Accuracy | | |
-| Reasoning | | |
-| Completeness | | |
-| Readability | | |
-| Tone | | |
-| Hallucination Risk | | |
-| Overall Helpfulness | | |
+| Criterion       | Rating | Notes |
+|----------------|:------:|-------|
+| Helpfulness    | 4.5 | Helpful overview of important psychology concepts. |
+| Clarity        | 4.5 | Easy to follow but relied more on listing concepts. |
+| Practicality   | 4.5 | Practical ideas were present but less thoroughly explained. |
+| Coverage       | 4.5 | Covered the main ideas but with less depth than ChatGPT. |
+| Overall Quality| 4.5 | Good response, though less educational overall. |
 
 ### Overall Comments
 
-Strengths
+**Strengths**
 
--
+- Clear and concise.
+- Easy to scan quickly.
+- Covered important concepts.
 
-Weaknesses
+**Weaknesses**
 
--
+- Focused more on listing ideas than teaching them.
+- Less explanation behind why the concepts matter.
 
 ---
 
@@ -347,71 +345,59 @@ If you only kept three: **people avoid discomfort, justify decisions after makin
 
 ## Scores
 
-| Criterion | Score (1-5) | Notes |
-|-----------|------------:|-------|
-| Instruction Following | | |
-| Accuracy | | |
-| Reasoning | | |
-| Completeness | | |
-| Readability | | |
-| Tone | | |
-| Hallucination Risk | | |
-| Overall Helpfulness | | |
+| Criterion       | Rating | Notes |
+|----------------|:------:|-------|
+| Helpfulness    | 4.5 | Helpful and informative throughout. |
+| Clarity        | 4.5 | Clear overall, though explanations were longer than necessary. |
+| Practicality   | 4.5 | Practical concepts with useful explanations. |
+| Coverage       | 5 | Covered all major requested areas. |
+| Overall Quality| 4.5 | Strong response but less efficient in communication than ChatGPT. |
 
 ### Overall Comments
 
-Strengths
+**Strengths**
 
--
+- Good explanations for each concept.
+- Practical focus throughout.
+- Covered the requested topic comprehensively.
 
-Weaknesses
+**Weaknesses**
 
--
-
----
-
-# Comparative Analysis
-
-## Ranking
-
-1.
-
-2.
-
-3.
+- Used more words to communicate similar ideas.
+- Less efficient teaching style than ChatGPT.
 
 ---
 
-## Best Response
+## Final Ranking
 
-Explain why.
-
----
-
-## Major Differences
-
--
-
--
-
--
+1. ChatGPT
+2. DeepSeek
+3. Claude
 
 ---
 
-## Interesting Observations
+## Why?
 
--
+### 1st — ChatGPT
 
--
+- Best teaching-oriented response.
+- Explained the deeper reasoning behind psychological concepts rather than only listing them.
+- Achieved greater understanding with fewer words while remaining easy to read.
 
--
+### 2nd — DeepSeek
+
+- Explained concepts clearly with practical detail.
+- Required more reading to reach a similar level of understanding.
+
+### 3rd — Claude
+
+- Covered useful concepts but relied more on concise point-form presentation.
+- Focused more on listing ideas than building deeper understanding.
 
 ---
 
-## Lessons Learned
+## Key Differences
 
--
-
--
-
--
+- ChatGPT emphasized teaching and conceptual understanding.
+- DeepSeek provided more detailed explanations but with greater reading effort.
+- Claude prioritized concise summaries over deeper explanation.
