@@ -61,27 +61,25 @@ Next Step: Pick one mildly unfamiliar activity this week (e.g., visit a new caf�
 
 ## Scores
 
-| Criterion | Score (1-5) | Notes |
-|-----------|------------:|-------|
-| Instruction Following | | |
-| Accuracy | | |
-| Reasoning | | |
-| Completeness | | |
-| Readability | | |
-| Tone | | |
-| Hallucination Risk | | |
-| Overall Helpfulness | | |
+| Criterion       | Rating | Notes |
+|----------------|:------:|-------|
+| Helpfulness    | 5 | Addressed the user's concern thoroughly and anticipated additional needs. |
+| Clarity        | 5 | Well organized with clear sections that improved readability. |
+| Practicality   | 5 | Practical advice supported by realistic explanations. |
+| Coverage       | 5 | Answered the prompt while also providing relevant supporting information. |
+| Overall Quality| 5 | Most complete and user-centered response. |
 
 ### Overall Comments
 
-Strengths
+**Strengths**
 
--
+- Explained why anxiety happens before suggesting solutions.
+- Included additional sections that naturally addressed concerns users commonly have about anxiety.
+- Made the response feel supportive without becoming repetitive.
 
-Weaknesses
+**Weaknesses**
 
--
-
+- Advice remained generally applicable and could have included more personalized examples.
 ---
 
 # DeepSeek Response
@@ -107,27 +105,25 @@ This happens because your brain is wired to protect you. It treats both physical
 
 ## Scores
 
-| Criterion | Score (1-5) | Notes |
-|-----------|------------:|-------|
-| Instruction Following | | |
-| Accuracy | | |
-| Reasoning | | |
-| Completeness | | |
-| Readability | | |
-| Tone | | |
-| Hallucination Risk | | |
-| Overall Helpfulness | | |
+| Criterion       | Rating | Notes |
+|----------------|:------:|-------|
+| Helpfulness    | 4.5 | Helpful overall but less comprehensive than ChatGPT. |
+| Clarity        | 4 | Longer paragraphs made the response slightly harder to read. |
+| Practicality   | 4.5 | Practical advice, though supported with less explanation. |
+| Coverage       | 4.5 | Covered the requested topics but omitted useful supporting context. |
+| Overall Quality| 4.5 | Good response that lacked some educational depth. |
 
 ### Overall Comments
 
-Strengths
+**Strengths**
 
--
+- Clearly explained the causes of anxiety.
+- Practical suggestions remained realistic.
 
-Weaknesses
+**Weaknesses**
 
--
-
+- Longer paragraphs reduced readability.
+- Missed additional explanations that could help users better understand their experience.
 ---
 
 # Claude Response
@@ -152,71 +148,57 @@ This kind of anxiety is very common and usually very responsive to practice — 
 
 ## Scores
 
-| Criterion | Score (1-5) | Notes |
-|-----------|------------:|-------|
-| Instruction Following | | |
-| Accuracy | | |
-| Reasoning | | |
-| Completeness | | |
-| Readability | | |
-| Tone | | |
-| Hallucination Risk | | |
-| Overall Helpfulness | | |
+| Criterion       | Rating | Notes |
+|----------------|:------:|-------|
+| Helpfulness    | 4.5 | Helpful but less complete than the strongest response. |
+| Clarity        | 4 | Response felt more compressed due to larger text blocks. |
+| Practicality   | 4.5 | Practical advice was provided but with less supporting explanation. |
+| Coverage       | 4.5 | Addressed the prompt but omitted useful contextual information. |
+| Overall Quality| 4.5 | Good overall response, though less informative than ChatGPT. |
 
 ### Overall Comments
 
-Strengths
+**Strengths**
 
--
+- Straightforward practical advice.
+- Explained the main causes of anxiety clearly.
 
-Weaknesses
+**Weaknesses**
 
--
+- Less educational depth than ChatGPT.
+- Missing supporting sections that improve understanding and reassurance.
+---
+
+## Final Ranking
+
+1. ChatGPT
+2. DeepSeek
+3. Claude
 
 ---
 
-# Comparative Analysis
+## Why?
 
-## Ranking
+### 1st — ChatGPT
 
-1.
+- Best balanced explanation, practical advice, and user support.
+- Anticipated additional questions a person with anxiety is likely to have instead of answering only the literal prompt.
+- Most readable and reassuring response.
 
-2.
+### 2nd — DeepSeek
 
-3.
+- Explained anxiety well and provided practical suggestions.
+- Longer paragraphs reduced readability, and it lacked the additional educational context provided by ChatGPT.
 
----
+### 3rd — Claude
 
-## Best Response
-
-Explain why.
-
----
-
-## Major Differences
-
--
-
--
-
--
+- Covered the core request but remained relatively brief.
+- Focused on answering the prompt directly without expanding into related guidance that would further help the user.
 
 ---
 
-## Interesting Observations
+## Key Differences
 
--
-
--
-
--
-
----
-
-## Lessons Learned
-
--
-
--
-
--
+- All three responses explained anxiety well enough to teach something new.
+- ChatGPT recognized that anxiety is a sensitive topic and proactively included additional information that would help reassure and educate the user.
+- DeepSeek and Claude followed the prompt more literally, while ChatGPT better anticipated the user's broader needs.
