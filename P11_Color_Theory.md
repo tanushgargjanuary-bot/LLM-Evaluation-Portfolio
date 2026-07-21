@@ -240,27 +240,25 @@ Next Step: Learn practical application by analyzing 20 well-designed interfaces,
 
 ## Scores
 
-| Criterion | Score (1-5) | Notes |
-|-----------|------------:|-------|
-| Instruction Following | | |
-| Accuracy | | |
-| Reasoning | | |
-| Completeness | | |
-| Readability | | |
-| Tone | | |
-| Hallucination Risk | | |
-| Overall Helpfulness | | |
+| Criterion       | Rating | Notes |
+|----------------|:------:|-------|
+| Helpfulness    | 5 | Built a complete understanding of color theory from fundamentals to practical application. |
+| Clarity        | 5 | Well organized with clear sections that connected concepts together. |
+| Practicality   | 5 | Applied color theory to perception, psychology, decision-making, and real-world usage. |
+| Coverage       | 5 | Covered all requested aspects while adding relevant supporting information. |
+| Overall Quality| 5 | Most educational and beginner-friendly response overall. |
 
 ### Overall Comments
 
-Strengths
+**Strengths**
 
--
+- Connected different color theory concepts into one coherent mental model.
+- Good readability through clear organization.
+- Additional sections generally improved understanding.
 
-Weaknesses
+**Weaknesses**
 
--
-
+- Some later sections felt better suited for follow-up prompts than the initial teaching response.
 ---
 
 # DeepSeek Response
@@ -349,27 +347,26 @@ Context, culture, and brightness drastically change these effects, but the biolo
 
 ## Scores
 
-| Criterion | Score (1-5) | Notes |
-|-----------|------------:|-------|
-| Instruction Following | | |
-| Accuracy | | |
-| Reasoning | | |
-| Completeness | | |
-| Readability | | |
-| Tone | | |
-| Hallucination Risk | | |
-| Overall Helpfulness | | |
+| Criterion       | Rating | Notes |
+|----------------|:------:|-------|
+| Helpfulness    | 4.5 | Helpful explanation with good conceptual understanding. |
+| Clarity        | 4.5 | Some sections explained ideas very efficiently. |
+| Practicality   | 4.5 | Practical applications were covered well. |
+| Coverage       | 4.5 | Covered the requested concepts with slightly less breadth than ChatGPT. |
+| Overall Quality| 4.5 | Strong response with efficient explanations. |
 
 ### Overall Comments
 
-Strengths
+**Strengths**
 
--
+- Efficient explanations that achieved good understanding with fewer words.
+- Tables improved readability where appropriate.
+- Good balance between theory and application.
 
-Weaknesses
+**Weaknesses**
 
--
-
+- Covered fewer supporting topics than ChatGPT.
+- Built a slightly less connected overall understanding.
 ---
 
 # Claude Response
@@ -438,71 +435,59 @@ This is where perception, attention, and emotion combine practically:
 
 ## Scores
 
-| Criterion | Score (1-5) | Notes |
-|-----------|------------:|-------|
-| Instruction Following | | |
-| Accuracy | | |
-| Reasoning | | |
-| Completeness | | |
-| Readability | | |
-| Tone | | |
-| Hallucination Risk | | |
-| Overall Helpfulness | | |
+| Criterion       | Rating | Notes |
+|----------------|:------:|-------|
+| Helpfulness    | 4.5 | Helpful explanation but less engaging to read. |
+| Clarity        | 4 | Large text blocks reduced readability. |
+| Practicality   | 4.5 | Practical concepts were included but harder to absorb. |
+| Coverage       | 4.5 | Addressed the core request adequately. |
+| Overall Quality| 4.5 | Informative response with weaker reading experience. |
 
 ### Overall Comments
 
-Strengths
+**Strengths**
 
--
+- Covered the major concepts of color theory.
+- Logical progression through the subject.
 
-Weaknesses
+**Weaknesses**
 
--
+- Large text blocks increased cognitive effort.
+- Presentation reduced the overall learning experience.
+---
+
+## Final Ranking
+
+1. ChatGPT
+2. DeepSeek
+3. Claude
 
 ---
 
-# Comparative Analysis
+## Why?
 
-## Ranking
+### 1st — ChatGPT
 
-1.
+- Best overall teaching experience.
+- Connected individual concepts into a coherent understanding of color theory.
+- Good balance between explanation, organization, and readability.
+- Extra sections generally improved understanding, although a few could have been left for follow-up lessons.
 
-2.
+### 2nd — DeepSeek
 
-3.
+- Efficient explanations that achieved strong understanding with relatively little text.
+- Good use of tables where appropriate.
+- Slightly less comprehensive than ChatGPT.
 
----
+### 3rd — Claude
 
-## Best Response
-
-Explain why.
-
----
-
-## Major Differences
-
--
-
--
-
--
+- Covered the requested concepts accurately.
+- Large text blocks made the response less enjoyable and more mentally demanding to read.
 
 ---
 
-## Interesting Observations
+## Key Differences
 
--
-
--
-
--
-
----
-
-## Lessons Learned
-
--
-
--
-
--
+- ChatGPT focused on building an interconnected mental model of color theory.
+- DeepSeek communicated several concepts very efficiently while maintaining good understanding.
+- Claude emphasized information delivery but paid less attention to the overall reading experience and presentation.
