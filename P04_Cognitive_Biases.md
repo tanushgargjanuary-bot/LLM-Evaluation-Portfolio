@@ -188,8 +188,6 @@ Here are seven biases that show up a lot in Indian household decisions:
 
 ---
 
-# Comparative Analysis
-
 ## Final Ranking
 
 1. Claude
