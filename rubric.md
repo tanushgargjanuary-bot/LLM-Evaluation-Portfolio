@@ -1,150 +1,76 @@
-# LLM Evaluation Rubric
-
-Every response is evaluated using the same criteria.
-
+LLM Evaluation Rubric
 Scoring Scale
+Score	Meaning
+5	Excellent
+4.5	Very Good
+4	Good
+3	Satisfactory
+2	Weak
+1	Poor
+Evaluation Criteria
+1. Helpfulness
 
-| Score | Meaning |
-|------:|---------|
-| 1 | Very Poor |
-| 2 | Poor |
-| 3 | Acceptable |
-| 4 | Good |
-| 5 | Excellent |
+Question
 
----
+Does the response genuinely help the intended user solve or understand their problem?
 
-# 1. Instruction Following
+Consider:
 
-Question:
+Relevance
+Practical usefulness
+Whether the response satisfies the user's likely needs
+2. Clarity
 
-Did the response answer what was actually asked?
+Question
 
-Look for:
+How easy is the response to read and understand?
 
-- Missing constraints
-- Ignored instructions
-- Wrong format
+Consider:
 
----
+Organization
+Readability
+Tables or formatting
+Cognitive load
+3. Practicality
 
-# 2. Accuracy
+Question
 
-Question:
+Can the user realistically apply the advice or information?
 
-Are the factual statements correct?
+Consider:
 
-Look for:
+Actionable guidance
+Practical examples
+Clear next steps
+4. Coverage
 
-- Incorrect facts
-- Unsupported claims
-- Misleading information
+Question
 
----
+Does the response address everything the prompt asked?
 
-# 3. Reasoning
+Consider:
 
-Question:
+Missing topics
+Completeness
+Balance between breadth and depth
+5. Overall Quality
 
-Is the reasoning logical and internally consistent?
+Question
 
-Look for:
+Considering all aspects together, how good is the overall response?
 
-- Logical jumps
-- Contradictions
-- Unsupported conclusions
+This reflects the evaluator's overall judgment after reading the complete response.
 
----
+Evaluation Philosophy
 
-# 4. Completeness
+This portfolio emphasizes practical usefulness over purely academic correctness.
 
-Question:
+Responses are evaluated based on how effectively they:
 
-Did the response cover the important aspects of the task?
+improve understanding,
+reduce cognitive effort,
+explain underlying reasoning,
+provide actionable guidance,
+and satisfy the user's likely needs.
 
-Look for:
-
-- Missing steps
-- Missing considerations
-- Partial answers
-
----
-
-# 5. Readability
-
-Question:
-
-Was the response easy to understand?
-
-Look for:
-
-- Structure
-- Clarity
-- Flow
-- Formatting
-
----
-
-# 6. Tone
-
-Question:
-
-Was the tone appropriate?
-
-Look for:
-
-- Professionalism
-- Friendliness
-- Audience awareness
-
----
-
-# 7. Hallucination Risk
-
-Question:
-
-Did the model appear to invent information or make unsupported assumptions?
-
-Look for:
-
-- Fabricated facts
-- Overconfidence
-- Speculation presented as fact
-
----
-
-# 8. Overall Helpfulness
-
-Question:
-
-Would a typical user likely be satisfied with this response?
-
-Consider the response as a whole.
-
----
-
-# General Scoring Guidelines
-
-Prefer lower scores when uncertain.
-
-Every score should include a written justification.
-
-Do not reward verbosity.
-
-Do not penalize brevity if the response fully answers the prompt.
-
-Evaluate the response itself, not the reputation of the model.
-
-Remain consistent across every prompt.
-
----
-
-# Common Evaluation Mistakes
-
-Avoid:
-
-- Brand bias
-- Preferring longer responses
-- Changing standards between prompts
-- Letting one criterion influence another
-- Comparing models before individual scoring
+Extra information is considered beneficial only when it meaningfully improves understanding or practical application.
