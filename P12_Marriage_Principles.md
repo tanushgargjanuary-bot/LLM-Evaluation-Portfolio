@@ -111,27 +111,25 @@ Next Step: Read one evidence-based relationship resource (e.g., work by John Got
 
 ## Scores
 
-| Criterion | Score (1-5) | Notes |
-|-----------|------------:|-------|
-| Instruction Following | | |
-| Accuracy | | |
-| Reasoning | | |
-| Completeness | | |
-| Readability | | |
-| Tone | | |
-| Hallucination Risk | | |
-| Overall Helpfulness | | |
+| Criterion       | Rating | Notes |
+|----------------|:------:|-------|
+| Helpfulness    | 5 | Built a broad understanding of marriage while remaining practical. |
+| Clarity        | 5 | Excellent organization through tables and clearly separated sections. |
+| Practicality   | 5 | Practical principles supported by psychological reasoning and mental models. |
+| Coverage       | 5 | Covered all requested aspects and expanded into relevant relationship concepts. |
+| Overall Quality| 5 | Most complete and educational response overall. |
 
 ### Overall Comments
 
-Strengths
+**Strengths**
 
--
+- Explained not only what principles matter, but also why they matter.
+- Built a systems-level understanding of marriage instead of presenting isolated advice.
+- Mental models and relationship maintenance made the response more useful for long-term learning.
 
-Weaknesses
+**Weaknesses**
 
--
-
+- Slightly longer than necessary, though almost all additional content remained relevant.
 ---
 
 # DeepSeek Response
@@ -166,27 +164,26 @@ A huge portion of relationship conflict is displaced stress from money, health, 
 
 ## Scores
 
-| Criterion | Score (1-5) | Notes |
-|-----------|------------:|-------|
-| Instruction Following | | |
-| Accuracy | | |
-| Reasoning | | |
-| Completeness | | |
-| Readability | | |
-| Tone | | |
-| Hallucination Risk | | |
-| Overall Helpfulness | | |
+| Criterion       | Rating | Notes |
+|----------------|:------:|-------|
+| Helpfulness    | 4.5 | Covered the most important principles in a practical way. |
+| Clarity        | 4.5 | Easy to understand despite a denser presentation. |
+| Practicality   | 4.5 | Practical advice focused on common relationship problems. |
+| Coverage       | 4.5 | Covered the requested topic well but with less supporting explanation. |
+| Overall Quality| 4.5 | Strong response that remained practical throughout. |
 
 ### Overall Comments
 
-Strengths
+**Strengths**
 
--
+- Covered many important relationship principles.
+- Introduced several useful ideas that added new knowledge.
+- Practical and understandable overall.
 
-Weaknesses
+**Weaknesses**
 
--
-
+- Focused more on principles than explaining the underlying psychology.
+- Less systems-oriented than ChatGPT.
 ---
 
 # Claude Response
@@ -213,71 +210,58 @@ If you had to prioritize: understanding #1 (that most conflict is perpetual, not
 
 ## Scores
 
-| Criterion | Score (1-5) | Notes |
-|-----------|------------:|-------|
-| Instruction Following | | |
-| Accuracy | | |
-| Reasoning | | |
-| Completeness | | |
-| Readability | | |
-| Tone | | |
-| Hallucination Risk | | |
-| Overall Helpfulness | | |
+| Criterion       | Rating | Notes |
+|----------------|:------:|-------|
+| Helpfulness    | 4 | Helpful but less comprehensive than the other responses. |
+| Clarity        | 5 | Concise and easy to read. |
+| Practicality   | 4 | Practical advice was provided but with fewer supporting concepts. |
+| Coverage       | 4 | Covered the core request but with less depth. |
+| Overall Quality| 4 | Good summary, though less educational than ChatGPT and DeepSeek. |
 
 ### Overall Comments
 
-Strengths
+**Strengths**
 
--
+- Concise and approachable.
+- Focused on practical advice.
 
-Weaknesses
+**Weaknesses**
 
--
+- Covered fewer high-impact relationship principles.
+- Offered less psychological explanation and systems thinking.
+---
+
+## Final Ranking
+
+1. ChatGPT
+2. DeepSeek
+3. Claude
 
 ---
 
-# Comparative Analysis
+## Why?
 
-## Ranking
+### 1st — ChatGPT
 
-1.
+- Best explained the psychology and reasoning behind healthy relationships.
+- Built a systems-level understanding of marriage rather than only listing advice.
+- Combined practical principles, conflict patterns, mental models, and long-term maintenance into one coherent framework.
 
-2.
+### 2nd — DeepSeek
 
-3.
+- Covered many important relationship principles and introduced useful new ideas.
+- Easier to understand than Claude and more comprehensive overall.
+- Focused more on practical principles than the underlying psychology.
 
----
+### 3rd — Claude
 
-## Best Response
-
-Explain why.
-
----
-
-## Major Differences
-
--
-
--
-
--
+- Clear and concise, but covered fewer important concepts.
+- Better suited as a quick overview than a complete learning resource.
 
 ---
 
-## Interesting Observations
+## Key Differences
 
--
-
--
-
--
-
----
-
-## Lessons Learned
-
--
-
--
-
--
+- ChatGPT focused on building a complete mental model of marriage and relationships.
+- DeepSeek emphasized practical principles but with less explanation of the underlying psychology.
+- Claude prioritized brevity, resulting in a less comprehensive learning experience.
