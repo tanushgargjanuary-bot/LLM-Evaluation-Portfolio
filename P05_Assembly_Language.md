@@ -462,6 +462,8 @@ Want me to move into actual syntax next (I'd suggest x86-64 or ARM — worth pic
 - Did not build concepts gradually for a beginner.
 - Introduced technical ideas too quickly.
 
+---
+
 ## Final Ranking
 
 1. DeepSeek
