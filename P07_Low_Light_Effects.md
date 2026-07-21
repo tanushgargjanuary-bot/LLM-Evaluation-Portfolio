@@ -160,7 +160,7 @@ If this question is about your own living situation, it's worth mentioning — I
 | Clarity        | 4.5 | Clear overall, though more condensed. |
 | Practicality   | 4 | Practical advice was present but limited. |
 | Coverage       | 4 | Focused mainly on the requested points without expanding into related information. |
-| Overall Quality| 4 | Good response, but less informative than ChatGPT and Claude. |
+| Overall Quality| 4 | Good response, but less informative than ChatGPT and DeepSeek. |
 
 ### Overall Comments
 
