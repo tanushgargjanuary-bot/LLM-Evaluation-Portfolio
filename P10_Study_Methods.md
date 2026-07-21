@@ -54,27 +54,25 @@ Next Step: Identify your current subjects and classify each as primarily theoret
 
 ## Scores
 
-| Criterion | Score (1-5) | Notes |
-|-----------|------------:|-------|
-| Instruction Following | | |
-| Accuracy | | |
-| Reasoning | | |
-| Completeness | | |
-| Readability | | |
-| Tone | | |
-| Hallucination Risk | | |
-| Overall Helpfulness | | |
+| Criterion       | Rating | Notes |
+|----------------|:------:|-------|
+| Helpfulness    | 5 | Explained different study approaches while adding useful learning principles. |
+| Clarity        | 5 | Excellent structure with a table that made comparison effortless. |
+| Practicality   | 5 | Easy to apply immediately across different subjects. |
+| Coverage       | 5 | Addressed every part of the prompt and provided relevant supporting information. |
+| Overall Quality| 5 | Most educational and practically useful response overall. |
 
 ### Overall Comments
 
-Strengths
+**Strengths**
 
--
+- Table made comparing study methods very easy.
+- Explained why different approaches work instead of only listing them.
+- Universal Study Cycle and Rules of Thumb made the advice transferable beyond the examples.
 
-Weaknesses
+**Weaknesses**
 
--
-
+- The "Common Mistakes" section felt less necessary than the rest of the response.
 ---
 
 # DeepSeek Response
@@ -105,27 +103,26 @@ The overarching principle: match the cognitive demand of the exam to your practi
 
 ## Scores
 
-| Criterion | Score (1-5) | Notes |
-|-----------|------------:|-------|
-| Instruction Following | | |
-| Accuracy | | |
-| Reasoning | | |
-| Completeness | | |
-| Readability | | |
-| Tone | | |
-| Hallucination Risk | | |
-| Overall Helpfulness | | |
+| Criterion       | Rating | Notes |
+|----------------|:------:|-------|
+| Helpfulness    | 4.5 | Helpful explanations covering all major subject types. |
+| Clarity        | 4 | Longer point structure required more reading effort. |
+| Practicality   | 4.5 | Practical advice, though less efficiently presented. |
+| Coverage       | 5 | Covered all requested subject categories. |
+| Overall Quality| 4.5 | Informative but less readable than ChatGPT. |
 
 ### Overall Comments
 
-Strengths
+**Strengths**
 
--
+- Comprehensive coverage.
+- Good explanations for each study approach.
+- Practical recommendations throughout.
 
-Weaknesses
+**Weaknesses**
 
--
-
+- Larger number of points reduced readability.
+- Required more effort to extract the key ideas.
 ---
 
 # Claude Response
@@ -144,71 +141,58 @@ There's no universal method, but there is a universal foundation: active recall 
 
 ## Scores
 
-| Criterion | Score (1-5) | Notes |
-|-----------|------------:|-------|
-| Instruction Following | | |
-| Accuracy | | |
-| Reasoning | | |
-| Completeness | | |
-| Readability | | |
-| Tone | | |
-| Hallucination Risk | | |
-| Overall Helpfulness | | |
+| Criterion       | Rating | Notes |
+|----------------|:------:|-------|
+| Helpfulness    | 4.5 | Helpful and concise overview. |
+| Clarity        | 5 | Easy to read with concise explanations. |
+| Practicality   | 4.5 | Practical advice but with less educational depth. |
+| Coverage       | 4.5 | Covered the main ideas but with fewer supporting explanations. |
+| Overall Quality| 4.5 | Good response, though less comprehensive than ChatGPT. |
 
 ### Overall Comments
 
-Strengths
+**Strengths**
 
--
+- Clear and concise writing.
+- Easy for beginners to read.
+- Well organized.
 
-Weaknesses
+**Weaknesses**
 
--
+- Less explanation of why different study methods work.
+- Fewer transferable learning principles.
+---
+
+## Final Ranking
+
+1. ChatGPT
+2. Claude
+3. DeepSeek
 
 ---
 
-# Comparative Analysis
+## Why?
 
-## Ranking
+### 1st — ChatGPT
 
-1.
+- Combined an excellent comparison table with explanations of why each study method works.
+- Added useful learning principles such as the Universal Study Cycle and Rules of Thumb that improve understanding beyond the immediate question.
+- Most practical and educational response overall.
 
-2.
+### 2nd — Claude
 
-3.
+- Clear, concise, and easy to understand.
+- Covered the requested information well but provided fewer supporting learning principles than ChatGPT.
 
----
+### 3rd — DeepSeek
 
-## Best Response
-
-Explain why.
-
----
-
-## Major Differences
-
--
-
--
-
--
+- Comprehensive response with practical advice.
+- Larger number of points reduced readability and required more effort to understand.
 
 ---
 
-## Interesting Observations
+## Key Differences
 
--
-
--
-
--
-
----
-
-## Lessons Learned
-
--
-
--
-
--
+- ChatGPT focused on maximizing understanding through structure, explanations, and transferable learning principles.
+- Claude prioritized concise communication and readability.
+- DeepSeek emphasized comprehensive coverage but with greater cognitive load.
