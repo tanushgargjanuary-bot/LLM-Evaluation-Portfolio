@@ -18,16 +18,13 @@ Prompt:
 
 ## Scores
 
-| Criterion | Score (1-5) | Notes |
-|-----------|------------:|-------|
-| Instruction Following | | |
-| Accuracy | | |
-| Reasoning | | |
-| Completeness | | |
-| Readability | | |
-| Tone | | |
-| Hallucination Risk | | |
-| Overall Helpfulness | | |
+| Criterion       | Rating  | Notes
+| --------------- |---------|--------------------------------------- 
+| Helpfulness     |         |
+| Clarity         |         |
+| Practicality    |         |
+| Coverage        |         |
+| Overall Quality |         |
 
 ### Overall Comments
 
@@ -47,16 +44,13 @@ Weaknesses
 
 ## Scores
 
-| Criterion | Score (1-5) | Notes |
-|-----------|------------:|-------|
-| Instruction Following | | |
-| Accuracy | | |
-| Reasoning | | |
-| Completeness | | |
-| Readability | | |
-| Tone | | |
-| Hallucination Risk | | |
-| Overall Helpfulness | | |
+| Criterion       | Rating  | Notes
+| --------------- |---------|--------------------------------------- 
+| Helpfulness     |         |
+| Clarity         |         |
+| Practicality    |         |
+| Coverage        |         |
+| Overall Quality |         |
 
 ### Overall Comments
 
@@ -70,22 +64,19 @@ Weaknesses
 
 ---
 
-# Perplexity Response
+# Claude Response
 
 (Paste response here)
 
 ## Scores
 
-| Criterion | Score (1-5) | Notes |
-|-----------|------------:|-------|
-| Instruction Following | | |
-| Accuracy | | |
-| Reasoning | | |
-| Completeness | | |
-| Readability | | |
-| Tone | | |
-| Hallucination Risk | | |
-| Overall Helpfulness | | |
+| Criterion       | Rating  | Notes
+| --------------- |---------|--------------------------------------- 
+| Helpfulness     |         |
+| Clarity         |         |
+| Practicality    |         |
+| Coverage        |         |
+| Overall Quality |         |
 
 ### Overall Comments
 
@@ -99,48 +90,32 @@ Weaknesses
 
 ---
 
-# Comparative Analysis
-
-## Ranking
+## Final Ranking
 
 1.
-
 2.
-
 3.
 
 ---
 
-## Best Response
+## Why?
 
-Explain why.
-
----
-
-## Major Differences
+### 1st
 
 -
 
--
+### 2nd
 
 -
 
----
-
-## Interesting Observations
-
--
-
--
+### 3rd
 
 -
 
 ---
 
-## Lessons Learned
+## Key Differences
 
 -
-
 -
-
 -
