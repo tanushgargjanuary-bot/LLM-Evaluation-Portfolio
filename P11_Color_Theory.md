@@ -371,7 +371,7 @@ Context, culture, and brightness drastically change these effects, but the biolo
 
 # Claude Response
 
-# Color Theory, Ground Up
+## Color Theory, Ground Up
 
 ## 1. Physics: What Color Actually Is
 
