@@ -80,7 +80,7 @@ This approach gives you short-term revenue opportunities while gradually reducin
 
 Strengths
 
-- 
+- Clear overview of multiple distribution strategies.
 
 Weaknesses
 
