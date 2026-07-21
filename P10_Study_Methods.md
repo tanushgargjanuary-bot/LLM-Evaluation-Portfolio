@@ -86,7 +86,7 @@ There is no single best way to study every subject. Different subjects engage di
 
 **2. Numerical/Problem-Solving Subjects (e.g., Math, Physics, Engineering)**
 - **Focus:** Process over recognition. Knowing a formula is not the same as knowing when and why to use it.
-- **Approach:** Study by doing delibarate practice. After understanding an example, cover it and re-solve from scratch. Prioritize mixed problem sets that force you to choose the right tool, not just plug-and-chug. Practice getting comfortably stuck before checking the solution.
+- **Approach:** Study by doing deliberate practice. After understanding an example, cover it and re-solve from scratch. Prioritize mixed problem sets that force you to choose the right tool, not just plug-and-chug. Practice getting comfortably stuck before checking the solution.
 - **Why:** Exams test knowledge transfer, not pattern matching. The bottleneck is almost always execution and problem setup, not passive understanding.
 
 **3. Programming (e.g., Computer Science, Software Development)**
