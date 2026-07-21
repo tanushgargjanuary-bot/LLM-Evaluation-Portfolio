@@ -160,7 +160,7 @@ Identify your non-negotiables before a crisis—core values, life direction, dea
 **8. Manage External Stressors Aggressively**
 A huge portion of relationship conflict is displaced stress from money, health, work, or extended family. Two people with well-managed external lives rarely fight to the death over dishes. Protect the relationship by solving the problems outside it that seep in.
 
-	The common thread: most relationship skill is upstream—what you do before and between conflicts, not during them.
+The common thread: most relationship skill is upstream—what you do before and between conflicts, not during them.
 
 ## Scores
 
