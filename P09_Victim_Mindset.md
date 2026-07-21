@@ -61,27 +61,25 @@ Next Step: For your next setback, write two lists—"Outside my control" and "Wi
 
 ## Scores
 
-| Criterion | Score (1-5) | Notes |
-|-----------|------------:|-------|
-| Instruction Following | | |
-| Accuracy | | |
-| Reasoning | | |
-| Completeness | | |
-| Readability | | |
-| Tone | | |
-| Hallucination Risk | | |
-| Overall Helpfulness | | |
+| Criterion       | Rating | Notes |
+|----------------|:------:|-------|
+| Helpfulness    | 5 | Explained both the causes and practical ways to develop a healthier perspective. |
+| Clarity        | 5 | Well structured and easy to follow. |
+| Practicality   | 5 | Provided actionable advice together with useful mental models. |
+| Coverage       | 5 | Covered all requested aspects while adding relevant supporting information. |
+| Overall Quality| 5 | Most educational and complete response overall. |
 
 ### Overall Comments
 
-Strengths
+**Strengths**
 
--
+- Explained why a victim mindset develops instead of only describing it.
+- Included practical ways to improve together with useful mental models.
+- Expanded understanding beyond the user's existing knowledge.
 
-Weaknesses
+**Weaknesses**
 
--
-
+- Could have explored the role of fatherlessness in greater depth.
 ---
 
 # DeepSeek Response
@@ -110,27 +108,25 @@ The shift from victimhood to agency isn't about denying real hardship—it's abo
 
 ## Scores
 
-| Criterion | Score (1-5) | Notes |
-|-----------|------------:|-------|
-| Instruction Following | | |
-| Accuracy | | |
-| Reasoning | | |
-| Completeness | | |
-| Readability | | |
-| Tone | | |
-| Hallucination Risk | | |
-| Overall Helpfulness | | |
+| Criterion       | Rating | Notes |
+|----------------|:------:|-------|
+| Helpfulness    | 4.5 | Helpful and informative with a strong focus on the background factors. |
+| Clarity        | 4.5 | Easy to understand despite covering many points. |
+| Practicality   | 4.5 | Practical suggestions were included but with less explanation than ChatGPT. |
+| Coverage       | 5 | Addressed all major aspects of the prompt. |
+| Overall Quality| 4.5 | Strong response with excellent contextual understanding. |
 
 ### Overall Comments
 
-Strengths
+**Strengths**
 
--
+- Best understanding of the role fatherlessness may play in developing a victim mindset.
+- Covered many contributing factors.
 
-Weaknesses
+**Weaknesses**
 
--
-
+- Less educational depth than ChatGPT.
+- Added fewer mental models to help change long-term thinking.
 ---
 
 # Claude Response
@@ -156,71 +152,58 @@ This shift is gradual — the goal isn't to erase valid grievances but to build 
 
 ## Scores
 
-| Criterion | Score (1-5) | Notes |
-|-----------|------------:|-------|
-| Instruction Following | | |
-| Accuracy | | |
-| Reasoning | | |
-| Completeness | | |
-| Readability | | |
-| Tone | | |
-| Hallucination Risk | | |
-| Overall Helpfulness | | |
+| Criterion       | Rating | Notes |
+|----------------|:------:|-------|
+| Helpfulness    | 4.5 | Helpful overall but provided less additional insight. |
+| Clarity        | 4.5 | Clear and balanced throughout. |
+| Practicality   | 4.5 | Practical advice was useful and realistic. |
+| Coverage       | 4.5 | Covered the core request but with less depth than ChatGPT. |
+| Overall Quality| 4.5 | Solid response without major weaknesses. |
 
 ### Overall Comments
 
-Strengths
+**Strengths**
 
--
+- Balanced explanation.
+- Practical recommendations.
+- Easy to understand.
 
-Weaknesses
+**Weaknesses**
 
--
+- Less detailed than ChatGPT.
+- Contributed fewer new insights.
+---
+
+## Final Ranking
+
+1. ChatGPT
+2. DeepSeek
+3. Claude
 
 ---
 
-# Comparative Analysis
+## Why?
 
-## Ranking
+### 1st — ChatGPT
 
-1.
+- Most educational response overall.
+- Explained the causes, behavioural patterns, mental models and practical ways to improve.
+- Expanded understanding beyond the user's previous knowledge while remaining balanced.
 
-2.
+### 2nd — DeepSeek
 
-3.
+- Best captured the role of fatherlessness in shaping a victim mindset.
+- Strong contextual understanding, though it provided fewer broader psychological insights than ChatGPT.
 
----
+### 3rd — Claude
 
-## Best Response
-
-Explain why.
-
----
-
-## Major Differences
-
--
-
--
-
--
+- Covered the core ideas clearly and remained balanced.
+- Offered fewer additional insights and less educational depth than the other responses.
 
 ---
 
-## Interesting Observations
+## Key Differences
 
--
-
--
-
--
-
----
-
-## Lessons Learned
-
--
-
--
-
--
+- ChatGPT focused on building a complete understanding through explanation, mental models and practical change.
+- DeepSeek emphasized the specific influence of fatherlessness more than the other models.
+- Claude remained balanced and practical but contributed fewer new ideas overall.
