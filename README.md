@@ -6,7 +6,7 @@ This project is a personal portfolio showcasing a structured manual evaluation p
 - **Claude**
 - **DeepSeek**
 
-The objective is to evaluate 12 realistic, practical prompts using a consistent methodology, demonstrating structured thinking, comparative analysis, and qualitative reasoning.
+The objective is to compare 36 responses (12 prompts × 3 models) using a consistent qualitative methodology and document the differences in explanation quality, readability, practical usefulness, and overall user experience.
 
 ## Scope
 This portfolio evaluates only single-turn responses. Multi-turn follow-up behavior is outside the scope of this project.
